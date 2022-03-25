@@ -1,0 +1,83 @@
+.date{
+    /* background-color: lightcoral; */
+    text-align: center;
+    padding: 25px;
+    font-size: 25px;
+    font-weight: bolder;
+    border: 1px solid gray;
+
+}
+.body-date{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    gap: 20px;
+}
+.body-days{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    gap: 20px;
+    margin-bottom: 10px;
+
+}
+.day{
+    text-align: center;
+    background-color:#377bc4;
+    padding: 10px;
+    color: white;
+
+}
+.heading{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.MARCH3{
+    display: flex;
+    align-items: center;
+}
+#backgroundcolor3{
+    background-color:#377bc4 ;
+    color: white;
+    padding: 4.5px 68px;
+    margin-right: 20px;
+}
+#march{
+    /* font-weight: 700; */
+    font-size: 35px;
+}
+.falgun{
+    font-size: 35px;
+    color: #377bc4;
+}
+.year{
+    font-size: 35px;
+    color: #377bc4;
+}
+.bondherdin p{
+    margin: 0%;
+    font-style: italic;
+    color: gray;
+    
+    
+}
+
+.bondherdin{
+    margin-top: 20px;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    position: relative;
+    top: 20px;
+}
+.holiday{
+    border: 1px solid red;
+    color: red;
+    background-color: white;
+}
+#mujibs-birthday{
+    color: red;
+}
