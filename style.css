@@ -38,19 +38,22 @@ justify-content: space-between;
 #backgroundcolor3{
     background-color:#377bc4 ;
     color: white;
-    padding: 4.5px 68px;
+    padding: 10px 65px;
     margin-right: 20px;
+    font-size: 30px;
+    font-weight: bolder;
 }
 #march{
     /* font-weight: 700; */
-    font-size: 35px;
+    font-size: 40px;
+
 }
 .falgun{
     font-size: 35px;
     color: #377bc4;
 }
 .year{
-    font-size: 35px;
+    font-size: 40px;
     color: #377bc4;
 }
 .bondherdin p{
@@ -81,4 +84,7 @@ justify-content: space-between;
 #mujibs-birthday{
     color: red;
     
+}
+body{
+    font-family: 'Roboto', sans-serif;
 }
